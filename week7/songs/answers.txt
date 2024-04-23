@@ -1,0 +1,7 @@
+1. By taking the average energy, valence and danceability of their
+top 100 songs and summing up together to characterize their audio aura.
+
+2. This might not be representative of the listener because somone
+with high energy and valence but low danceability will be characterize
+together with someone with low energy but high valence and danceability.
+Should calculate based on each category.
