@@ -1,0 +1,79 @@
+.image
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+}
+body.below
+{
+    height: 125vh;
+    margin-top: 80px;
+    padding: 30px;
+    background-size: cover;
+    font-family: sans-serif;
+    color: white;
+}
+header
+{
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 25px 0 black;
+}
+header *
+{
+    display: inline;
+    color: white;
+}
+header li
+{
+    margin: 20px;
+    color: white;
+
+}
+header li a
+{
+    color: blue;
+    text-decoration: none;
+}
+body
+{
+    margin-top: 60px; /* Adjust the value as needed */
+    padding: 30px;
+    font-family: sans-serif;
+    background-image: url(https://images.genius.com/5969d635ce6eb8f51b1da79d7140cfcd.1000x1000x1.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.expand-details
+{
+    display: none;
+}
+.show-details
+{
+    display: block !important;
+}
+.info-line
+{
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+.info-separator
+{
+    border-top: 1px solid gray;
+    margin: 10px 0;
+}
+.toggle-details
+{
+    background-color: #8B0000; /* Replace with your desired color */
+    color: #ffffff; /* Replace with your desired text color */
+}
