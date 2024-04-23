@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: It has the shortest real time when sorting sorted files
+
+sort2 uses: Merge sort
+
+How do you know?: It has the shortest real time when sorting,
+
+sort3 uses: Selection sort
+
+How do you know?: The real time taken to sort reversed and sorted files are similar.
